@@ -1,4 +1,4 @@
-Osome tech interview
+Example tech interview
 
 # Getting Started with Create React App
 
